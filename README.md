@@ -30,11 +30,11 @@ Laptop Price Predictor is a machine learning project designed to predict the pri
 3. **Run the application:**
    - For a script or CLI:
      ```bash
-     python main.py
+     python laptop.py
      ```
    - For a web app (if available):
      ```bash
-     streamlit run app.py
+     streamlit run laptop.py
      ```
 
 ## Project Structure
