@@ -32,7 +32,7 @@ Laptop Price Predictor is a machine learning project designed to predict the pri
      ```bash
      python laptop.py
      ```
-   - For a web app (if available):
+   - For a web app:
      ```bash
      streamlit run laptop.py
      ```
